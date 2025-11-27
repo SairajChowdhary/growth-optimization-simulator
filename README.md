@@ -1,7 +1,3 @@
-
-Instamart Dark Store — Ops & Growth Optimization Simulator
-
-# 📈 Growth Optimization Simulator
 <!-- Banner Header -->
 ![Growth Royale Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,20&height=220&section=header&text=Growth%20Royale&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
