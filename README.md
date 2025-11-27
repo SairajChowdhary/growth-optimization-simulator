@@ -1,13 +1,13 @@
 <!-- Banner Header -->
-![Growth Royale Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,20&height=220&section=header&text=Growth%20Royale&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+![Growth Royale Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,19,18&height=220&section=header&text=Growth%20Royale&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
 # 🎮 Growth Royale
-A fun, simulation-driven approach to mastering **growth optimization**, data insights, and resource strategy.
 
 ---
 
 <!-- Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,20&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,19,18&height=180&sect)
+
 
 <div align="center">
 
