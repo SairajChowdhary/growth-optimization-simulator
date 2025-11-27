@@ -1,9 +1,6 @@
 <!-- Banner Header -->
 ![Growth Royale Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,21,22&height=220&section=header&text=Growth%20Royale&fontSize=90&fontAlignY=45&animation=twinkling&fontColor=ffffff)
 
-# 🎮 Growth Royale
-
-
 <div align="center">
 
 ![GitHub stars](https://img.shields.io/github/stars/SairajChowdhary/growth-optimization-simulator?style=social)
