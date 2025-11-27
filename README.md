@@ -1,13 +1,12 @@
 <!-- Banner Header -->
-![Growth Royale Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,19,18&height=220&section=header&text=Growth%20Royale&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+![Growth Royale Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,21,22&height=220&section=header&text=Growth%20Royale&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
 # 🎮 Growth Royale
 
 ---
 
 <!-- Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,19,18&height=180&sect)
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,21,22&height=180&section=footer)
 
 <div align="center">
 
