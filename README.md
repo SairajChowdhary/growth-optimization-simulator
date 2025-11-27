@@ -7,9 +7,7 @@
 
 <!-- Footer Banner -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,21,22&height=180&section=footer)
-<p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/024/573/514/original/hanging-spider-silhouette-on-transparent-background-free-png.png" width="120" alt="Hanging Spider" />
-</p>
+<img src="https://static.vecteezy.com/system/resources/previews/026/635/576/original/cute-spider-on-transparent-background-free-png.png" width="80" style="position:absolute; top:0; right:0;" />
 
 <div align="center">
 
