@@ -306,7 +306,9 @@ Made with ❤️ by Sairaj Chowdhary
 
 </div>
 ---
-
-<!-- Footer Banner -->
+<div align="center">
+    
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,21,22&height=180&section=footer)
+    
+</div>
 
